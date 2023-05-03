@@ -1,0 +1,15 @@
+Date: 3/5/2023
+Time: 22:55
+Phone Number: +94784672933
+Message: Hello, this is an automated message sent using pywhatkit!
+--------------------
+Date: 3/5/2023
+Time: 23:2
+Phone Number: +94704672301
+Message: Hello, the hell will break loose in 0
+--------------------
+Date: 3/5/2023
+Time: 23:7
+Phone Number: +94703324738
+Message: Test message from a Python script!
+--------------------
